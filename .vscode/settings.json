@@ -1,0 +1,5 @@
+{
+    "deepscan.enable": true,
+    "jira-plugin.workingProject": "",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace, OperatorMono-Book, Operator Mono"
+}
